@@ -3,6 +3,8 @@ import Banner from "./Componentes/Banner";
 import Nav from "./Componentes/Nav";
 import Skills from "./Componentes/Skills";
 import Projects from "./Componentes/Projects";
+import Contact from "./Componentes/Contact";
+import Footer from "./Componentes/Footer";
 
 const App = () => {
   return (
@@ -12,6 +14,8 @@ const App = () => {
         <About/>
         <Skills/>
         <Projects/>
+        <Contact/>
+        <Footer/>
       </div>
   );
 };
