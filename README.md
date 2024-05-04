@@ -4,7 +4,7 @@
 * Jeferson Gabriel de Mendonça | 
 * Joseh Gabriel | 
 * Larissa Estella Gonçalves dos Santos | 552695
-* Victor Vilares |
+* Victor Henrique Vilares Rodrigues| 554175
 
 ## Instalações Utilizadas:
 
